@@ -12,6 +12,7 @@ const Navbar = () => {
       <button type="button" class="btn btn-secondary"><Link className={Styles.link} href="/facilities">Facilities</Link></button>
       <button type="button" class="btn btn-secondary"><Link className={Styles.link} href="/contact">Contact</Link></button>
       <button type="button" class="btn btn-secondary"><Link className={Styles.link} href="/about">About</Link></button>
+      <button type="button" class="btn btn-secondary"><Link className={Styles.link} href="/batches">Our Products</Link></button>
     </div>
     </div>
   );
